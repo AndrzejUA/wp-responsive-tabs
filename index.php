@@ -2,7 +2,7 @@
 
 /*
 	Plugin Name: WP Responsive Tabs
-	Plugin URI: http://www.websitedesignwebsitedevelopment.com/ertabs
+	Plugin URI: http://www.websitedesignwebsitedevelopment.com/wprtp
 	Description: An easy way to create tabs for unique posts/pages and feel freedom to use them anywhere in your content or files.
 	Version: 1.0
 	Author: Fahad Mahmood 

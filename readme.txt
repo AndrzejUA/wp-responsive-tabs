@@ -43,7 +43,7 @@ An easy way to create tabs for unique posts/pages and feel freedom to use them a
 ==Description ==
 * Author: [Fahad Mahmood](http://www.androidbubbles.com/contact)
 
-* Project URI: <http://www.websitedesignwebsitedevelopment.com/ertabs>
+* Project URI: <http://www.websitedesignwebsitedevelopment.com/wprtp>
 
 * License: GPL 3. See License below for copyright jots and tittles.
 
@@ -87,7 +87,7 @@ Method-B:
 3.	Log in to the WordPress Dashboard and activate the Easy Responsive Tabs to Accordion plugin.
 4.	Once the plugin is activated, Easy Responsive Tabs to Accordion will be displayed as a metabox under your content editor in posts/pages edit mode.
 
-[Easy Responsive Tabs to Accordion Quick Start]: http://www.websitedesignwebsitedevelopment.com/ertabs
+[Easy Responsive Tabs to Accordion Quick Start]: http://www.websitedesignwebsitedevelopment.com/wprtp
 
 ==Changelog ==
 
