@@ -12,7 +12,33 @@ An easy way to create tabs for unique posts/pages and feel freedom to use them a
 
 
 ==Screenshots ==
-
+1. Shortcode and tabs content view.
+2. Responsive view.
+3. Unique CSS example.
+4. Tabs implemented with CSS.
+5. Implmentation on live website.
+6. Shortcode implementation.
+7. Unique shortcode group id.
+8. Horizontal orientation tag in shortcode.
+9. Tabs implemented in twentyfourteen theme.
+10. Add tab and delete tab view.
+11. Multisite support view-1.
+12. Multisite support view-2.
+13. Multisite support view-3.
+14. Multisite support view-3.
+15. Plugin installed on network.
+16. Horizontal vs. vertical orientation.
+17. Responsive view.
+18. Tabs titles and contents.
+19. Files/Folders structure.
+20. Installed view.
+21. Responsive tabs view in twentyfourteen theme.
+22. Responsive tabs view in twentyfourteen theme with CSS.
+23. Shortcode tag "tabs" to limit number of tabs in your content.
+24. Compatibility view.
+25. Unique CSS class view.
+26. Vertical view.
+27. Shortcode implemented in editor.
 
 ==Description ==
 * Author: [Fahad Mahmood](http://www.androidbubbles.com/contact)
