@@ -47,7 +47,7 @@ An easy way to create tabs for unique posts/pages and feel freedom to use them a
 
 * License: GPL 3. See License below for copyright jots and tittles.
 
-Attach files during checkout process on cart page with ease.
+An easy way to create tabs for unique posts/pages and feel freedom to use them anywhere in your content or files..
 
 
 
@@ -101,7 +101,7 @@ release:
 1.	Download the Easy Responsive Tabs to Accordion installation package and extract the files on
 
 	your computer. 
-2.	Upload the new PHP files to `wp-content/plugins/ertabs`,
+2.	Upload the new PHP files to `wp-content/plugins/wp-responsive-tabs`,
 
 	overwriting any existing Easy Responsive Tabs to Accordion files that are there.
 
