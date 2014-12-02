@@ -1,6 +1,6 @@
 ﻿=== WP Responsive Tabs ===
 
-Contributors: Fahad Mahmood
+Contributors: fahadmahmood
 Tags: easy, responsive, tabs, accordion
 
 Requires at least: 3.9
